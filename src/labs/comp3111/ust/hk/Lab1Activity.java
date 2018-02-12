@@ -20,7 +20,7 @@ public class Lab1Activity {
 			}
 		}
 		
-		return small;
+		return small;   //
 	}; 
 	
 	public static void main(String[] args) {
